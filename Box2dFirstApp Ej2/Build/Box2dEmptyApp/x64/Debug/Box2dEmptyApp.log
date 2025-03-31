@@ -1,0 +1,12 @@
+﻿  Game.cpp
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(50,55): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(50,55): warning C4244:         with
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(50,55): warning C4244:         [
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(50,55): warning C4244:             T=float
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(50,55): warning C4244:         ]
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(55,56): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(55,56): warning C4244:         with
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(55,56): warning C4244:         [
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(55,56): warning C4244:             T=float
+J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Src\Game.cpp(55,56): warning C4244:         ]
+  Box2dEmptyApp.vcxproj -> J:\UNL\MAVI 2\EsqueletoAPP\EsqueletoAPP\Box2dFirstApp Ej2\Bin\Debug\Box2dEmptyApp.exe
